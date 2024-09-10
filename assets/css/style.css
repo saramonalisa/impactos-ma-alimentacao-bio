@@ -306,6 +306,13 @@ body.nav-active { overflow: hidden; }
   object-fit: cover;
 }
 
+.img-post {
+  width: 75%;
+  height: 75%;
+  object-fit: cover;
+  margin: auto;
+}
+
 .section { padding-block: var(--section-padding); }
 
 .section-text {
